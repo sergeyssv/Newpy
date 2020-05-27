@@ -1,7 +1,7 @@
 import sys
 
 
-FILENAME = "DANN_OP_MYFILE1.txt"
+FILENAME = "DANN_OP_MYFILE.txt"
 
 cnt = 40000
 c_lengop = 1000
